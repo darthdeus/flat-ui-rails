@@ -10,6 +10,14 @@ And then execute:
 
     $ bundle
 
+Add flat-ui to your `application.css`
+
+    //= require flat-ui
+
+or `application.css.scss`
+
+    @import "flat-ui";
+
 ## Contributing
 
 1. Fork it
