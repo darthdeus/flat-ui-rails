@@ -12,7 +12,7 @@ And then execute:
 
 Add flat-ui to your `application.css`
 
-    //= require flat-ui
+    *= require flat-ui
 
 or `application.css.scss`
 
