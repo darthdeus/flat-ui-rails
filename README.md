@@ -1,5 +1,7 @@
 # Flat-UI for Rails Asset Pipeline
 
+# [THIS PROJECT IS NO LONGER MAINTAINED AND LOOKING FOR A NEW MAINTAINER](https://github.com/darthdeus/flat-ui-rails/issues/17)
+
 ## Installation
 
 Add this line to your application's Gemfile:
